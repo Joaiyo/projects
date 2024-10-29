@@ -44,23 +44,23 @@ public class TriviaHelper {
     }
 
     public static void initialize(String[] questions, String[] answers, int[] points) { //stores information into the arrays
-        questions[0] = "What pokemon is a yellow duck and has headaches constantly?";
+        questions[0] = "What pokemon is a yellow duck and has headaches constantly? (1 Point)";
         answers[0] = "psyduck";
         points[0] = 1;
         
-        questions[1] = "What popular video game was made in 2011 and features a blocky design?";
+        questions[1] = "What popular video game was made in 2011 and features a blocky design? (1 Point)";
         answers[1] = "minecraft";
         points[1] = 1;
 
-        questions[2] = "What is the name of the 2001 romance anime that features zodiac animals and was recently remade in 2019?";
+        questions[2] = "What is the name of the 2001 romance anime that features zodiac animals and was recently remade in 2019? (2 Point)";
         answers[2] = "fruits basket";
         points[2] = 2;
 
-        questions[3] = "What is the name of this Disney 2007 film that featured a cooking rat?";
+        questions[3] = "What is the name of this Disney 2007 film that featured a cooking rat? (2 Point)";
         answers[3] = "ratatouille";
         points[3] = 2;
 
-        questions[4] = "What does FNAF stand for?";
+        questions[4] = "What does FNAF stand for? (3 Point)";
         answers[4] = "five nights at freddy's";
         points[4] = 3;
     }
